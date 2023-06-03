@@ -1,0 +1,12 @@
+git init : comando para inicializar git en nuestro proyecto
+
+git config --global user.name "Gabriel Santinelli"
+
+git config --global user.mail "mail"
+
+comando para enlazar github:  git remote add origin
+
+git status
+
+
+git add "nombre del archivo"
